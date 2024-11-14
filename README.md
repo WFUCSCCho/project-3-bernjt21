@@ -17,6 +17,7 @@ If I believe you have violated our ___Pledge Work___ agreement, I will pursue th
 
 Sorting algorithms are fundamental techniques in computer science that organize data in a specific order, optimized for 
 data handling, retrieval, and analyses. Key algorithms, including Bubble Sort, Merge Sort, Quick Sort, Heap Sort, and 
+
 Odd-Even Transposition Sort, each employ different strategies with varied efficiency in terms of space and time 
 often evaluated with Big-O notation. 
 
@@ -96,17 +97,22 @@ vs. N for each case. Take a screenshot of your graph and put them here by modify
 it to this repository.
 
 Bubble Sort, Merge Sort, Quick Sort, and Heap Sort running time (already sorted):
-![image](https://github.com/user-attachments/assets/76f103c8-8c02-4bec-9966-99568f2effb6)
+<img width="382" alt="Screenshot 2024-11-13 at 10 51 25 PM" src="https://github.com/user-attachments/assets/806d74e3-e2ea-4707-9469-a95c30ff1ac9">
 
 Bubble Sort, Merge Sort, Quick Sort, and Heap Sort running time (shuffled):
+<img width="391" alt="Screenshot 2024-11-13 at 10 50 45 PM" src="https://github.com/user-attachments/assets/0dad7baf-cfab-4f2a-8ee1-4c9916dbe7d1">
 
 Bubble Sort, Merge Sort, Quick Sort, and Heap Sort running time (reversed):
+<img width="396" alt="Screenshot 2024-11-13 at 10 50 23 PM" src="https://github.com/user-attachments/assets/c47a0827-33ce-4e75-9d3e-b6e0354aa666">
 
 Bubble Sort and Odd-Even Transposition Sort comparison (already sorted):
+<img width="402" alt="Screenshot 2024-11-13 at 10 49 48 PM" src="https://github.com/user-attachments/assets/92792cf5-09bb-41ca-af06-d73c664d0ab0">
 
 Bubble Sort and Odd-Even Transposition Sort comparison (shuffled):
+<img width="417" alt="Screenshot 2024-11-13 at 10 49 07 PM" src="https://github.com/user-attachments/assets/80402126-403f-4768-a7fd-e017eee2f855">
 
 Bubble Sort and Odd-Even Transposition Sort comparison (reversed):
+<img width="420" alt="Screenshot 2024-11-13 at 10 48 00 PM" src="https://github.com/user-attachments/assets/48a783d8-ac3a-4e6e-8528-9f355a4fddcd">
 
 ## Submission:
 
