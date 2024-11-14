@@ -154,7 +154,7 @@ public class Proj3 {
         }
         return count;
     }
-
+    //The Main method takes in the input file, creates an arraylist for DogData, creates an output file, and runs the sorting methods for the sorted, shuffled, and the reversed sorted list
     public static void main(String [] args)  throws IOException {
         //...
         // Finish Me
