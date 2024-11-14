@@ -1,0 +1,118 @@
+Breed,Country of Origin,Fur Color,Height (in),Color of Eyes,Longevity (yrs)
+Labrador Retriever,Canada,Yellow or Black or Chocolate,21-24,Brown,10-12
+German Shepherd,Germany,Black or Tan,22-26,Brown,7-10
+Bulldog,England,White or Red,12-16,Brown,8-10
+Poodle,France,White or Black or Brown or Apricot,10-15,Brown or Blue,12-15
+Beagle,England,White or Tan or Red or Lemon,13-15,Brown,12-15
+Chihuahua,Mexico,Black or Brown or Tan or White,6-9,Brown or Blue,12-20
+Boxer,Germany,Fawn or Brindle,21-25,Brown,10-12
+Golden Retriever,Scotland,Golden,21-24,Brown,10-12
+Pug,China,Fawn or Black,10-14,Brown,12-15
+Rottweiler,Germany,Black or Tan,22-27,Brown,8-10
+Siberian Husky,Russia,Black or White,21-24,Blue,12-15
+Dachshund,Germany,Black or Tan,5-9,Brown or Blue,12-15
+Shih Tzu,China,Black or White or Brown,9-10,Brown,10-16
+Bichon Frise,France,White,9-11,Brown,12-15
+Australian Shepherd,Australia,Black or Red,18-23,Brown or Blue,12-15
+Basset Hound,France,Black or Tan,11-15,Brown,10-12
+Cocker Spaniel,England,Black or Brown,14-15,Brown,12-15
+French Bulldog,France,White or Black or Brindle,11-12,Brown,10-12
+Pomeranian,Germany,Orange or Sable or Black,6-7,Brown,12-16
+Great Dane,Germany,Black or Blue or Fawn or Harlequin,28-34,Brown,8-10
+Mastiff,England,Apricot or Fawn,30-34,Brown,8-10
+Newfoundland,Canada,Black or Brown or Grey,26-28,Brown,9-11
+Saint Bernard,Switzerland,Red or White,26-30,Brown,8-10
+Old English Sheepdog,England,Blue or Grey,22-26,Brown,10-12
+Irish Wolfhound,Ireland,Grey or Red or Black,30-35,Brown,6-8
+Greyhound,England,Black or White or Brindle,26-30,Brown,10-12
+Scottish Deerhound,Scotland,Blue or Grey,28-32,Brown,8-10
+Great Pyrenees,France,White,25-32,Brown,10-12
+Shar Pei,China,Cream or Fawn,18-20,Brown,8-12
+Doberman Pinscher,Germany,Black or Red,24-28,Brown,10-12
+Weimaraner,Germany,Silver or Grey,25-29,Blue or Grey,10-12
+Belgian Malinois,Belgium,Fawn or Mahogany,22-26,Brown,12-14
+Rhodesian Ridgeback,Rhodesia,Light Wheaten,25-27,Brown,10-12
+English Setter,England,Black or White or Liver,23-27,Brown,12-15
+Pointer,England,Black or White or Liver,21-27,Brown,12-15
+Gordon Setter,Scotland,Black or Tan,23-27,Brown,12-15
+Irish Setter,Ireland,Red,24-28,Brown,12-15
+Papillon,France,White or Black or Sable or Red,8-11,Brown,14-16
+Pekingese,China,Black or White or Red,6-9,Brown,12-15
+Toy Poodle,France,White or Black or Brown or Apricot,10-11,Brown or Blue,12-15
+Miniature Poodle,France,White or Black or Brown or Apricot,10-15,Brown or Blue,12-15
+Standard Poodle,France,White or Black or Brown or Apricot,15-22,Brown or Blue,12-15
+Affenpinscher,Germany,Black or Brown or Red,9-11,Brown,12-15
+Boston Terrier,United States,Black or White,15-17,Brown,11-13
+Brussels Griffon,Belgium,Black or Red,7-10,Brown,12-15
+Cairn Terrier,Scotland,Black or Wheaten or Red,10-12,Brown,12-15
+Chinese Crested,China,Pink or White or Black,11-13,Brown,13-18
+Miniature Schnauzer,Germany,Black or Salt & Pepper or White,12-14,Brown,12-15
+Standard Schnauzer,Germany,Black or Salt & Pepper,18-20,Brown,12-15
+West Highland White Terrier,Scotland,White,11-12,Brown,12-16
+Australian Terrier,Australia,Red or Black & Tan,10-11,Brown,12-15
+Border Terrier,England,Red or Wheaten or Black,10-16,Brown,12-16
+Coton de Tulear,Madagascar,White,9-11,Brown,12-14
+English Toy Spaniel,England,White or Blenheim,10-12,Brown,12-14
+Australian Stumpy Tail Cattle Dog,Australia,Red or Black,17-20,Brown,12-14
+Pug,China,Black or Fawn,10-14,Brown,12-15
+American Eskimo Dog,United States,White,15-19,Brown,12-15
+Australian Cattle Dog,Australia,Blue or Red,17-20,Brown,12-16
+Basset Hound,France,Black or White or Red,11-15,Brown,10-12
+Australian Kelpie,Australia,Red or Black,17-20,Brown,12-14
+Bloodhound,England,Red or Black,22-27,Brown,10-12
+Border Collie,England,Black or White or Red,18-22,Brown,12-15
+Australian Shepherd,Australia,Blue Merle,20-23,Brown,12-14
+American Bulldog,United States,White or Red,20-28,Brown,10-12
+Australian Shepherd,Australia,Black or Red,18-23,Brown,12-15
+Borzoi,Russia,White or Cream or Red,26-29,Brown,10-12
+Bull Terrier,England,White or Red,20-22,Brown,10-12
+Cane Corso,Italy,Black or Red,22-28,Brown,10-12
+Cardigan Welsh Corgi,Wales,Red or Sable or Black,10-12,Brown,12-14
+Chesapeake Bay Retriever,United States,Brown or Tan,21-26,Brown,12-14
+Saluki,Middle East,Cream or Red,23-28,Brown,12-14
+English Setter,England,Liver or Blue,25-27,Brown,12-14
+English Springer Spaniel,England,Black or White or Liver,20-24,Brown,12-14
+Field Spaniel,England,Black or Liver,15-18,Brown,12-14
+Finnish Spitz,Finland,Red or Golden,15-20,Brown,12-15
+Flat-Coated Retriever,England,Black or Liver,22-25,Brown,12-14
+Australian Terrier,Australia,Red,10-11,Brown,12-15
+Giant Schnauzer,Germany,Black or Salt & Pepper,25-28,Brown,10-12
+Golden Retriever,Scotland,Gold,21-24,Brown,12-14
+Gordon Setter,Scotland,Black or Tan,24-27,Brown,12-14
+Australian Cattle Dog,Australia,Blue or Red,17-20,Brown,12-14
+Greyhound,England,White or Black or Red,26-30,Brown,10-12
+Harrier,England,Red or Black & Tan,18-21,Brown,12-14
+Irish Setter,Ireland,Red,26-28,Brown,12-14
+Irish Terrier,Ireland,Red,14-16,Brown,12-14
+Irish Water Spaniel,Ireland,Brown,21-24,Brown,12-14
+Irish Wolfhound,Ireland,Grey or Red,30-35,Brown,6-10
+Italian Greyhound,Italy,Red or Black,13-15,Brown,12-15
+Jack Russell Terrier,England,White or Black & Tan,10-12,Brown,12-15
+Japanese Chin,Japan,Black or Red,7-11,Brown,12-15
+Keeshond,Netherlands,Black or Cream,17-19,Brown,12-15
+Kerry Blue Terrier,Ireland,Blue,17-19,Brown,12-14
+Kuvasz,Hungary,White,25-29,Brown,10-12
+Lhasa Apso,Tibet,Black or White,10-11,Brown,12-15
+Maltese,Malta,White,8-10,Brown,12-15
+Miniature Pinscher,Germany,Red or Stag Red,10-12,Brown,12-14
+Samoyed,Russia,White,21-23,Brown,12-14
+Shetland Sheepdog,Scotland,Sable or Black,13-16,Brown,12-14
+Staffordshire Bull Terrier,England,White or Black or Red,14-16,Brown,12-14
+Vizsla,Hungary,Red,20-24,Brown,12-14
+Anatolian Shepherd,Turkey,Fawn,27-29,Brown,12-14
+Welsh Corgi,Wales,Red or Sable,10-12,Brown,12-15
+Welsh Springer Spaniel,Wales,Liver or White,20-25,Brown,12-14
+Welsh Terrier,Wales,Black or Tan,10-12,Brown,12-15
+West Highland White Terrier,Scotland,White,10-12,Brown,12-15
+Whippet,England,White or Black or Red,18-22,Brown,12-15
+Wirehaired Pointing Griffon,Belgium,Brown or White,21-24,Brown,12-14
+Xoloitzcuintli,Mexico,Black or Red,10-14,Brown,12-15
+Yorkshire Terrier,England,Blue & Tan,7-8,Brown,12-15
+Akita,Japan,Red or Fawn or Sesame,24-28,Brown,10-12
+Africanis,Africa,Brown or Red,22-25,Brown,12-15
+Basenji,Congo,Red or Black & White,16-17,Brown,12-15
+Catahoula Leopard Dog,United States,Merle or Black,20-26,Brown,12-14
+Cocker Spaniel,England,Black or Brown,14-15,Brown,12-15
+Miniature Shiba Inu,Japan,Red or Sesame,13-16,Brown,12-15
+Belgian Tervuren,Belgium,Fawn,22-26,Brown,12-14
+Pharaoh Hound,Malta,Red,21-25,Brown,12-14
