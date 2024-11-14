@@ -2,7 +2,7 @@
  * @file: DogData.java
  * @description: This program implements the DogData class which includes the toString(), compareTo(), and equals() method
  * @author: June Bernstein
- * @date: October 23, 2024
+ * @date: November 14, 2024
  ******************************************************************/
 public class DogData implements Comparable<DogData> { //does this need to be extends
 

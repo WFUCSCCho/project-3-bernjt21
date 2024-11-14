@@ -1,3 +1,10 @@
+/********************************************************************
+ * @file: DogData.java
+ * @description: This program implements the Proj3 class which includes the algorithms to run bubble sort, heap sort, merge sort, quick sort, and off-even transposition. It runs each sorting method for sorted, shuffled, and reversed arraylists and counts the comparisons for bubble and odd even transposition and the running time in nano-seconds for bubble, merge, heap, and quick sort
+ * @author: June Bernstein
+ * @date: November 14, 2024
+ ******************************************************************/
+
 import java.io.*;
 import java.util.ArrayList;
 import java.util.Collections;
@@ -5,7 +12,7 @@ import java.util.Scanner;
 
 public class Proj3 {
     // Sorting Method declarations
-    // Merge Sort
+    // Merge Sort method with recursive calls and calls to the merge method
     public static <T extends Comparable> void mergeSort(ArrayList<T> a, int left, int right) {
         // Finish Me
         if (left<right){
@@ -15,7 +22,7 @@ public class Proj3 {
             merge(a, left, mid, right);
         }
     }
-
+    //merge method that runs the algorithm
     public static <T extends Comparable> void merge(ArrayList<T> a, int left, int mid, int right) {
         // Finish Me
         ArrayList<T> temp = new ArrayList<>(a);
@@ -38,7 +45,7 @@ public class Proj3 {
         }
     }
 
-    // Quick Sort
+    // Quick Sort method which calls to the partition method for the algorithm from the pivots which are recursively used in quickSort
     public static <T extends Comparable> void quickSort(ArrayList<T> a, int left, int right) {
         // Finish Me
         if (left<right) {
@@ -48,6 +55,7 @@ public class Proj3 {
         }
     }
 
+    //runs the algorithm and finds pivots for quickSort
     public static <T extends Comparable> int partition (ArrayList<T> a, int left, int right) {
         // Finish Me
         T pivot = a.get(right);
@@ -63,13 +71,14 @@ public class Proj3 {
         return i+1;
     }
 
+    //swaps values in the ArrayList
     static <T> void swap(ArrayList<T> a, int i, int j) {
         T temp = a.get(i);
         a.set(i, a.get(j));
         a.set(j, temp);
     }
 
-    // Heap Sort
+    // Heap Sort method that calls heapify to run algorithm
     public static <T extends Comparable> void heapSort(ArrayList<T> a, int left, int right) {
         // Finish Me
         int size = right-left+1;
@@ -82,7 +91,7 @@ public class Proj3 {
             heapify(a, left, i-1, left);
         }
     }
-
+    //method with algorithm for heaps
     public static <T extends Comparable> void heapify (ArrayList<T> a, int left, int right, int i) {// does adding int i here work
         // Finish Me
         int largest = i;
@@ -100,7 +109,7 @@ public class Proj3 {
         }
     }
 
-    // Bubble Sort
+    // Bubble Sort method that performs the sorting and counts the number of comparisons
     public static <T extends Comparable> int bubbleSort(ArrayList<T> a, int size) {
         // Finish Me
         int count = 0;
@@ -121,7 +130,7 @@ public class Proj3 {
         return count;
     }
 
-    // Odd-Even Transposition Sort
+    // Odd-Even Transposition Sort method that runs the algorithm and counts the number of comparisons performed
     public static <T extends Comparable> int transpositionSort(ArrayList<T> a, int size) {
         // Finish Me
         int count = 0;
@@ -198,6 +207,7 @@ public class Proj3 {
             dogArrayList.add(data);//add the data onto the ArrayList
             //}
         }
+        //creating output files for the times and counts as well as the sorted arraylists
         File file = new File("./analysis.csv");
         File sortedFile = new File("./sorted.txt");
         if (sortedFile.delete()) {
@@ -209,14 +219,18 @@ public class Proj3 {
         doSortingAlgorithm(dogArrayList, sortType, numLines,"sorted");
         writeToFile("Sorted list: " + sortType + "\n" + dogArrayList + "\n", "./sorted.txt");
 
+        //performs collections.shuffle on arraylist
         Collections.shuffle(dogArrayList);
         doSortingAlgorithm(dogArrayList,sortType, numLines,"shuffled");
         writeToFile("Shuffled list: " + sortType + "\n" + dogArrayList + "\n", "./sorted.txt");
 
+        //performs collections sort in the reverse order on arraylist
         Collections.sort(dogArrayList, Collections.reverseOrder());
         doSortingAlgorithm(dogArrayList,sortType, numLines, "reversed");
         writeToFile("Reversed sorted list: " + sortType + "\n" + dogArrayList+ "\n", "./sorted.txt");
     }
+
+    //depending on the input for the configuration, runs the specified sorting algorithm or displays error
     private static ArrayList<DogData> doSortingAlgorithm(ArrayList<DogData> dogArrayList, String sortType, int numLines, String inputSortType){
         long startTime;
         long endTime;
